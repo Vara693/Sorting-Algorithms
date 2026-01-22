@@ -1,4 +1,4 @@
-# Quick Sort
+# Sorting Algorithms
 All Sorting Algorithms are here
 Includes:
 1. Selection sort
